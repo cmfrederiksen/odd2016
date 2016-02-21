@@ -7,11 +7,16 @@ Værktøjer.
 
 RapidMiner, the industry’s #1 open source predictive analytics platform, is disrupting the market by empowering enterprises to include predictive analytics in any business process—closing the loop between insight and action. RapidMiner’s effortless solution makes predictive analytics lightning-fast for today’s modern analysts, radically reducing the time to unearth opportunities and risks. RapidMiner delivers game-changing expertise from the largest worldwide predictive analytics community.
 
-
 * Orange (http://orange.biolab.si/)
 
 Open source data visualization and data analysis for novice and expert. Interactive workflows with a large toolbox.
 
+* KNIME Analytics Platform (https://www.knime.org)
+
+KNIME stands for KoNstanz Information MinEr and is pronounced: [naim] (that is, with a silent "k", just as in "knife"). It is developed by KNIME.com AG located in Zurich and the group of Michael Berthold at the University of Konstanz, Chair for Bioinformatics and Information Mining.
+ 
+ 
+Mere avancerede værktøjer for de mere øvede.
 
 * R (https://www.r-project.org/)
 
@@ -24,8 +29,4 @@ R is a free software environment for statistical computing and graphics. It comp
 - Statsmodels (http://statsmodels.sourceforge.net/).  Statsmodels is a Python module that allows users to explore data, estimate   statistical models, and perform statistical tests. An extensive list of descriptive statistics, statistical tests, plotting functions, and result statistics are available for different types of data and each estimator. Researchers across fields may find that statsmodels fully meets their needs for statistical computing and data analysis in Python. 
 
 - Scikit-learn (http://scikit-learn.org/stable/index.html). Machine Learning 
-
-
-
-
 
