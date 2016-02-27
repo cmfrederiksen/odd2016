@@ -1,4 +1,4 @@
-Open Data Day - links til værktøjer
+#Open Data Day - links til værktøjer
 
 
 Værktøjer.
@@ -18,7 +18,7 @@ KNIME stands for KoNstanz Information MinEr and is pronounced: [naim] (that is, 
  
 Mere avancerede værktøjer for de mere øvede.
 
-* R (https://www.r-project.org/)
+* R (https://www.r-project.org/) og Rstudio (https://www.rstudio.com)
 
 R is a free software environment for statistical computing and graphics. It compiles and runs on a wide variety of UNIX platforms, Windows and MacOS. 
 
